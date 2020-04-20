@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Xaml2Resx": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\vadim\\source\\repos\\vds.net\\src\\client\\IVySoft.VDS.Client.UI.WPF\\RegisterDlg.xaml C:\\Users\\vadim\\source\\repos\\vds.net\\src\\client\\IVySoft.VDS.Client.UI.WPF\\UIResources.resx "
+    }
+  }
+}
